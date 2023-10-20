@@ -1,0 +1,86 @@
+.logcd{
+  display: flex;
+  flex-wrap: wrap;
+  width: 17cm;
+  height: 12cm;
+  margin: auto;
+  margin-top: 3cm;
+  background-image: linear-gradient(to left bottom, #d16ba5, #c777b9, #ba83ca, #aa8fd8, #9a9ae1, #8ba7eb, #7db3f2, #72bff5, #69cffa, #69defa, #76ecf7, #8bf9f2);
+}
+
+.logccd{
+  display: flex;
+  flex-wrap: wrap;
+  width: 17cm;
+  height: 13cm;
+  margin: auto;
+  margin-top: 3cm;
+  background-image: linear-gradient(to left bottom, #d16ba5, #c777b9, #ba83ca, #aa8fd8, #9a9ae1, #8ba7eb, #7db3f2, #72bff5, #69cffa, #69defa, #76ecf7, #8bf9f2);
+}
+.fpt{color: #000;}
+.fpf{
+  width: 15cm;
+margin: auto;
+margin-top: 5cm;
+}
+body{
+  background-color: #FFF9F5;
+}
+
+.logbody{
+ justify-content: center;
+}
+
+.psbn{
+width:fit-content;height: 4cm;
+}
+.frm{
+  margin-top: .5cm;
+}
+
+.logbt{
+  width: 7.5cm;margin:0 .25cm 0 .25cm;
+}
+
+.lpimg{
+  width: fit-content;
+  height: 5cm;
+  justify-content: center;
+  text-align: center;
+  margin: auto;}
+
+  .lph1{
+    text-align: center;
+    font-family:monospace;
+  }
+
+  .welimg{
+    justify-content: center;
+    text-align: center;
+    margin: auto;
+  }
+  .todo{
+    text-align: center;
+    margin-top: 3cm;
+    }
+
+    .dlp{
+      width: 15cm;
+      height: 11cm;
+      justify-content: center;
+      align-items: center;
+      background-color: #FFF9F5;
+      border: 0px solid #FFF9F5;
+    }
+
+    .lpjc{
+      display: flex;
+      flex-direction: row;
+      flex-wrap: wrap;
+      justify-content: center;
+    }
+    .lpbtn{
+      width: 8cm;
+      justify-content: center;
+      margin: .25cm;
+    }
